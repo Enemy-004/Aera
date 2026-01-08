@@ -22,8 +22,8 @@
 ---
 
 ## 🎮 Supported GTA V Version - LEGACY
-- **ONLINE: 1.71**
-- **GAME BUILD: 3586**
+- **ONLINE: 1.72**
+- **GAME BUILD: 3725**
 
 ---
 
